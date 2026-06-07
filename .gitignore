@@ -1,0 +1,45 @@
+# ─── Maven ────────────────────────────────────────────────────────────────────
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ─── IDE – IntelliJ IDEA ──────────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ─── IDE – Eclipse ────────────────────────────────────────────────────────────
+.classpath
+.project
+.settings/
+.factorypath
+
+# ─── IDE – VS Code ────────────────────────────────────────────────────────────
+.vscode/
+
+# ─── Test Artifacts ───────────────────────────────────────────────────────────
+reports/
+logs/
+screenshots/
+
+# ─── WebDriver Binaries (managed by WebDriverManager) ────────────────────────
+drivers/
+*.exe
+chromedriver
+geckodriver
+msedgedriver
+
+# ─── OS Generated ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Sensitive Config (do not commit) ────────────────────────────────────────
+src/test/resources/config.local.properties
+
+# ─── Test Data (binary / generated) ──────────────────────────────────────────
+*.xlsm
