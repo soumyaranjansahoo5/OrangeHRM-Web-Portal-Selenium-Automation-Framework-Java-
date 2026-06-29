@@ -284,7 +284,7 @@ BaseTest (setup/teardown + ExtentReports)
 ## 👤 Author
 
 **Soumyaranjan Sahoo**  
-Automation Test Engineer | Qatasys, Hyderabad  
+Automation Test Engineer 
 📧 soumyaranjansahoo6530@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/soumyaranjansahoo7321) | [GitHub](https://github.com/soumyaranjansahoo5)
 
